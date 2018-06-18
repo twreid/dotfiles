@@ -1,0 +1,3 @@
+# Aliases
+
+alias rzshrc=". ~/.zshrc"
